@@ -19,5 +19,5 @@
  
  <p>The goal of this project is to utilize machine learning algorithms to predict the popularity and number of installs of Google Playstore applications. To achieve this objective, four different models were developed and trained, including <b>Logistic Regression Classifier, Random Forest Classifier, Support Vector Classifier, and MLP classifier</b>.<br>
  Data analysis, including data cleaning, visualization, hyperparameter tuning, and model creation, was performed using <b>NumPy, Pandas, Matplotlib, Plotly, and SciKit-Learn</b> libraries. The models were then evaluated and compared to determine the optimal model accuracy.<br>
- The Google PlayStore dataset was taken from <b> Kaggle <b> </p>
+ The Google PlayStore dataset was taken from <b> Kaggle. <b> </p>
  
